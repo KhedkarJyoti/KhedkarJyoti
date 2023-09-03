@@ -1,8 +1,11 @@
  Hi there, I am Jyoti 👋
 
-- 🔭 I’m currently working as **Fullstack Web Developer**.
-- 🌱 I’m currently learning **AWS**
-- 💬 Ask me about **ReactJS, NodeJS & JavaScript**.
+- 🔭 I’m currently working as $\color{RoyalBlue}{\textrm{FullStack Web Developer}}$.
+- 🌱 I’m currently learning $\color{YellowGreen}{\textrm{AWS}}$.
+- 💬 Ask me about $\color{MediumVioletRed}{\textrm{ReactJS, NodeJS and JavaScript}}$.
+
+
+
 <!--
 **KhedkarJyoti/KhedkarJyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
